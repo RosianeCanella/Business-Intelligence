@@ -1,4 +1,4 @@
-README.md Descontraído para Sua Aplicação
+
 **Análise Express: Encontre Seus Serviços Rapidamente! **
 O que faz essa aplicação?
 
