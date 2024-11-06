@@ -28,3 +28,9 @@ Dica: Para deixar a busca ainda mais poderosa, você pode adicionar filtros, com
 Vamos juntos tornar essa aplicação ainda mais incrível!
 
 #buscador #javascript #html #css #desenvolvimentoweb
+
+********************************************
+Case Coty
+
+Relatório de vendas da ação de borrifação da Coty Dufry
+https://app.powerbi.com/view?r=eyJrIjoiNjFjZDFmZWQtOGI4Ny00NzliLWE3NDItMjYxNmZkNmMzM2RhIiwidCI6IjMzMTMxYTMzLTA5NDAtNGQzYy04NTdjLWJjNjkwNmI2YzY0YSJ9
